@@ -87,9 +87,6 @@ If you reference this work, please cite the pre-print:
   author  = {Alwi, Aslan},
   year    = {2026},
   journal = {Preprint},
-  doi     = {DOI assigned by Zenodo}
+  doi     = {https://doi.org/10.5281/zenodo.18159084}
 }
-
-
-## Repository Structure
 
