@@ -1,0 +1,2 @@
+# A-Topological-and-Compositional-Framework-for-Meaning-Causal-Reflective-and-Hierarchical-Semantics
+This work presents a foundational, representation-agnostic framework for semantic interpretation grounded in topology and compositional mapping.   Meaning is formalized through meaning topologies, causal and reflective semantic connectivity, and hierarchical interpretation defined as compositional mapping between distinct semantic spaces.  
