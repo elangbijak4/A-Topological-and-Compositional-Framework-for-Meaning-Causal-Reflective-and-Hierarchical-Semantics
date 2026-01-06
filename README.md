@@ -1,8 +1,9 @@
 # A Topological and Compositional Framework for Meaning  
 ## Causal, Reflective, and Hierarchical Semantics
 
-**Universitas Muhammadiyah Ponorogo**
+**Universitas Muhammadiyah Ponorogo**  
 Department of Informatics Engineering, Faculty of Engineering
+
 **Almudaya Research Institute**  
 Foundational Research in Meaning, Intelligence, and Formal Epistemology
 
