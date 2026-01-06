@@ -11,7 +11,7 @@ Foundational Research in Meaning, Intelligence, and Formal Epistemology
 
 ## Context
 
-This repository hosts a foundational research paper developed under the **Almudaya Research Institute**.  
+This repository hosts a foundational research paper developed under **Universitas Muhammadiyah Ponorogo** and the **Almudaya Research Institute**.  
 The work investigates the structural nature of meaning by proposing an axiomatic and representation-agnostic framework grounded in topology and compositional interpretation.
 
 The research is motivated by a simple but far-reaching question:
